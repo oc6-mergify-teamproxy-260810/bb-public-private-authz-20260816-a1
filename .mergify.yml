@@ -1,0 +1,7 @@
+pull_request_rules:
+  - name: BB visibility transition event Q7N4
+    conditions:
+      - title = BB VISIBILITY TRANSITION Q7N4
+    actions:
+      comment:
+        message: BB_VISIBILITY_TRANSITION_PRIVATE_EVENT_Q7N4
